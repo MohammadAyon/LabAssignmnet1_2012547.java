@@ -1,10 +1,10 @@
 package CodingAssignment2;
 
- abstract class Product {
+ abstract class CA2_Product_2012547 {
   private String Name;
   private double price;
   
-  public Product(String name, double price) {
+  public CA2_Product_2012547(String name, double price) {
     Name = name;
     this.price = price;
   }
